@@ -8,7 +8,7 @@
 
 ## فناوری‌ها
 - HTML5
-- CSS3
+- CSS3 
 - Vanilla JavaScript
 
 ## لینک آنلاین
